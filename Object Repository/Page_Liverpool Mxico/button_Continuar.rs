@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continuar</name>
+   <tag></tag>
+   <elementGuidId>32a1d7cc-cec5-46aa-9400-ebb62a6b6dc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-btn.a-btn--primary.333</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opc_deliveryPayModalButtons']/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>93ec4fc5-1dfa-41e7-90fa-9d1fb1baa746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-btn a-btn--primary 333</value>
+      <webElementGuid>78a440a1-ba32-4964-abd0-ca63f5fde2de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continuar</value>
+      <webElementGuid>8f6f5338-5078-4f26-8ac4-9a6e428cf455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opc_deliveryPayModalButtons&quot;)/div[@class=&quot;opc_continuarModal isAndroid&quot;]/button[@class=&quot;a-btn a-btn--primary 333&quot;]</value>
+      <webElementGuid>c73012c4-c877-455b-a262-5209b4050648</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='opc_deliveryPayModalButtons']/div/button</value>
+      <webElementGuid>f40242b7-516b-40da-a79b-f2ac378aafe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Esta solicitud de pedido es válida únicamente antes del 27 Ene 2023/23:59:59.'])[1]/following::button[1]</value>
+      <webElementGuid>81a23ff3-1302-4c72-bc2d-80bb2d2ea2da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IMPORTANTE:'])[2]/following::button[1]</value>
+      <webElementGuid>8af2caca-6e58-4955-b825-70f5fb52d200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirma tu compra'])[1]/preceding::button[1]</value>
+      <webElementGuid>6961ea44-3ef9-4695-a97d-cc21df860121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utilizar datos de forma de pago como predeterminado'])[1]/preceding::button[1]</value>
+      <webElementGuid>09fbe283-fe81-41d7-b7ac-3b6088209679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continuar']/parent::*</value>
+      <webElementGuid>b06933be-16c1-4f1d-b27b-caf7445e6d3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>809411ce-15ae-423c-be00-76c7e1fa2ea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Continuar' or . = 'Continuar')]</value>
+      <webElementGuid>0e7f72a9-8718-4170-9cd2-4abf9ec01704</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Esta solicitud de pedido es válida únicamente antes del 26 Ene 2023/23:59:59.'])[1]/following::button[1]</value>
+      <webElementGuid>192117b5-1cf2-46da-b43f-abb3abdf9791</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

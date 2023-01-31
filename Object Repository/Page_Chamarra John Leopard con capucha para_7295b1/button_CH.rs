@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_CH</name>
+   <tag></tag>
+   <elementGuidId>5e301583-99d0-4ce0-9b17-2f569e729684</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-btn.a-btn--actionpdp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cc9745af-dd6a-47ff-b5bc-9245d6bad391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-btn a-btn--actionpdp</value>
+      <webElementGuid>9b5b391b-8dd7-457f-8b63-a12ab99241ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-skuid</name>
+      <type>Main</type>
+      <value>1114534451</value>
+      <webElementGuid>780ca690-0a27-4cc8-abc4-9592ac392c5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> CH </value>
+      <webElementGuid>296107c9-d36e-4ef7-a367-4afae8992dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;size-list-container&quot;)/li[1]/button[@class=&quot;a-btn a-btn--actionpdp&quot;]</value>
+      <webElementGuid>f5958eec-58f6-45ce-9f67-2b0f07417b6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='size-list-container']/li/button</value>
+      <webElementGuid>a3f7d311-d3bd-47e8-8019-da57213407eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Café'])[2]/following::button[1]</value>
+      <webElementGuid>107eaf49-7d57-4242-8ce0-3a9e73a4acd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver disponibilidad en tienda'])[1]/following::button[1]</value>
+      <webElementGuid>a6fe1e60-267a-4304-ab3a-34a309d57f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CH']/parent::*</value>
+      <webElementGuid>2dc69729-e89c-4a00-b92f-0dcb775e8f2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/button</value>
+      <webElementGuid>aa8afc0f-7c9a-4e6d-8267-53e1cf425ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' CH ' or . = ' CH ')]</value>
+      <webElementGuid>cd4ff8f1-f170-4577-a002-d24558639f3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

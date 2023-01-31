@@ -1,3 +1,84 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Ropa tallas extra para hombre  Liverpo_7caadb/span_Hombre",
+      "brokenLocator": "//div[@id\u003d\u0027__next\u0027]/header/div[3]/div[2]/div/nav/div/div/div/div/div/ul/li/ul/li[2]/a/div/div/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Ver todas las secciones\u0027])[1]/following::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Ropa tallas extra para hombre  Liverpo_7caadb/span_Hombre_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Iniciar sesin  Liverpool/input_Correo electrnico_username",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027username\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Iniciar sesin  Liverpool/input_Correo electrnico_username_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Ropa de moda para hombre  Liverpool.com.mx/h5_Chamarras",
+      "brokenLocator": "(//figure[@class\u003d\u0027m-figureCard__figure card  m-card\u0027])",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//h5",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Playera tipo polo Aropostale para homb_ccfaf0/button_XCH",
+      "brokenLocator": "(//button[@class\u003d\u0027a-btn a-btn--actionpdp active\u0027])[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//ul[@id\u003d\u0027size-list-container\u0027]/li/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Sign in to Outlook/input_Enter password_passwd",
+      "brokenLocator": "//div[2]/input",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//input[@id\u003d\u0027i0118\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Sign in to Outlook/input_Enter password_passwd_attributes.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Mail - Shubham Ganesh Jagtap - Outlook/span_Clave de acceso Hola, sjagtap. Necesit_796adb",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Contacto Elektra\u0027])[2]/preceding::span[4]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Contacto Elektra\u0027])[1]/following::span[9]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Mail - Shubham Ganesh Jagtap - Outlook/span_Clave de acceso Hola, sjagtap. Necesit_796adb_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Elektra, Tu Familia Vive Mejor/input_Ingrese el cdigo que enviamos a sjagt_e4422d",
+      "brokenLocator": "//input[@value\u003d\u0027S\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div/label/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Elektra, Tu Familia Vive Mejor/input_Ingrese el cdigo que enviamos a sjagt_e4422d_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Elektra, Tu Familia Vive Mejor/span_Crear",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Volver\u0027])[1]/following::span[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027✖\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    }
+  ]
 }

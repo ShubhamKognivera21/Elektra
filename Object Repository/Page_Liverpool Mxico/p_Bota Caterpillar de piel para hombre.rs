@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Bota Caterpillar de piel para hombre</name>
+   <tag></tag>
+   <elementGuidId>b56b63dc-5746-41c8-b820-ad4571035d91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opc_productsContainer']/div/div[2]/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.a-checkout__titleProduct</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a8e06feb-88fa-4a7b-b6a0-bc231bdf3015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-checkout__titleProduct</value>
+      <webElementGuid>a96c154b-48f8-49f3-9d0f-5f51b8c9b5d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bota Caterpillar de piel para hombre</value>
+      <webElementGuid>115dfbfe-858f-454a-859c-625419f00171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opc_productsContainer&quot;)/div[@class=&quot;col-12 m-box m-box-adjust m-checkout__productAdded pt-3 mkp_item&quot;]/div[@class=&quot;product-card-container&quot;]/div[@class=&quot;opc_DproductDescWAP product-description&quot;]/p[@class=&quot;a-checkout__titleProduct&quot;]</value>
+      <webElementGuid>8d5cbb72-69cf-4fa0-948f-c38ad3940c11</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='opc_productsContainer']/div/div[2]/div[2]/p</value>
+      <webElementGuid>4c9a0b57-fbba-488a-8dad-148a18ace8c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega estimada:'])[1]/following::p[1]</value>
+      <webElementGuid>7d0d635c-6ae6-4cdf-abe0-c9b0dc58386c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CVV'])[1]/following::p[5]</value>
+      <webElementGuid>6f0598cf-875e-4877-9009-d9b327034f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrega estimada:'])[2]/preceding::p[19]</value>
+      <webElementGuid>be5ba0ef-bf83-44d1-a854-bff4acf7cc78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::p[21]</value>
+      <webElementGuid>544826c8-948f-4bf7-8e3c-9bf003b52093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bota Caterpillar de piel para hombre']/parent::*</value>
+      <webElementGuid>09d98d8a-0fee-4cc8-8671-8b9b3fc40b2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]/p</value>
+      <webElementGuid>b37447a1-5c79-4524-98aa-07e402a3c6b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Bota Caterpillar de piel para hombre' or . = 'Bota Caterpillar de piel para hombre')]</value>
+      <webElementGuid>78935e7a-e1c7-4e74-a60d-27b8b511e01a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CVV'])[1]/following::p[6]</value>
+      <webElementGuid>856b2cb2-7f83-4725-b79c-28658b6279ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

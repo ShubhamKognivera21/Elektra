@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ver todo</name>
+   <tag></tag>
+   <elementGuidId>4779c395-71c8-4efa-af6b-c0138a3cbca9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-category__listElement</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div/div/div[2]/aside/div/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d47e1d6c-40f9-4245-9517-d3f27e085d8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-category__listElement</value>
+      <webElementGuid>d3b53bdd-e058-4bc9-b387-90f2f50a8bfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/tienda/ropa/cat610037?showPLP</value>
+      <webElementGuid>2f16b538-e6d3-44f0-8f3f-7ed4f53060db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ver todo</value>
+      <webElementGuid>591e3cff-db81-4901-8b88-8d6cfc7d4b80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/main[1]/div[@class=&quot;container-fluid o-main-container p-0 o-clp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary&quot;]/div[1]/div[@class=&quot;row mt-lg-3 m-row-bootstrap leftMenu-clpMobile&quot;]/aside[@class=&quot;col-lg-3 pr-4 m-aside__content&quot;]/div[@class=&quot;d-none d-lg-block o-nav-sideBar&quot;]/div[1]/div[@class=&quot;m-leftMenu-wrapper plp-filter-options active&quot;]/ul[@class=&quot;nav-sub-options-leftMenu pl-40&quot;]/li[@class=&quot;nav-sub-link-leftMenu&quot;]/a[@class=&quot;a-category__listElement&quot;]</value>
+      <webElementGuid>c283ceff-c8f3-412f-bdd1-1174e30ddb80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div/div/div[2]/aside/div/div/div/ul/li/a</value>
+      <webElementGuid>ae4844b2-4dfc-4b13-9fae-9a9881adddb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Ver todo')]</value>
+      <webElementGuid>5786ddc4-5811-4348-a912-711a16c5fe98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ropa'])[2]/following::a[1]</value>
+      <webElementGuid>c8ac23c8-c2f9-4541-abf2-53ec3e2aad4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hombre'])[2]/following::a[1]</value>
+      <webElementGuid>ac61d4d7-4610-4621-8d97-ceec19746c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chamarras'])[1]/preceding::a[1]</value>
+      <webElementGuid>d5e93132-3a32-46b4-8ea1-197f25dffc91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abrigos'])[1]/preceding::a[2]</value>
+      <webElementGuid>353ddd63-05f8-4b66-83c6-d3972202278e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ver todo']/parent::*</value>
+      <webElementGuid>77b3d1a3-6a97-410b-a100-4ca0e7643c29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/tienda/ropa/cat610037?showPLP')]</value>
+      <webElementGuid>899553b5-5034-4b6f-be31-eaed270a6cd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div/div/div/ul/li/a</value>
+      <webElementGuid>0c8c04ea-1d75-429a-b087-b61ac187a7ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/tienda/ropa/cat610037?showPLP' and (text() = 'Ver todo' or . = 'Ver todo')]</value>
+      <webElementGuid>9677bac1-0a24-46a4-8ede-2ce2a502126d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_XCH</name>
+   <tag></tag>
+   <elementGuidId>b82331d5-844d-4114-bd00-65d4238bb258</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@class='a-btn a-btn--actionpdp active'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.a-btn.a-btn--actionpdp</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b7347bc5-a732-4227-9665-caa9b75c21a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-btn a-btn--actionpdp</value>
+      <webElementGuid>8150e191-2bce-4ffc-b5e3-7633f3311995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-skuid</name>
+      <type>Main</type>
+      <value>1110893627</value>
+      <webElementGuid>94860ec0-af74-4b6e-9d89-e43284fcfb55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> XCH </value>
+      <webElementGuid>aa32fd65-03cc-49d1-b71c-53b59d957c10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;size-list-container&quot;)/li[1]/button[@class=&quot;a-btn a-btn--actionpdp&quot;]</value>
+      <webElementGuid>1a47b2c9-1107-453d-8865-7439a218bd2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='size-list-container']/li/button</value>
+      <webElementGuid>c41828a0-26b3-403b-886b-c3ee3df08b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Azul'])[1]/following::button[1]</value>
+      <webElementGuid>99530fa5-2089-4d7d-a8b1-ecc6a3195909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver disponibilidad en tienda'])[1]/following::button[1]</value>
+      <webElementGuid>6a3c716d-19bc-4360-9f7e-c166b641367d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='XCH']/parent::*</value>
+      <webElementGuid>ffa25ceb-5ff8-4d9b-b7bd-486a80047136</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/button</value>
+      <webElementGuid>4ce76ea9-5e81-4c1c-a1e4-488a80a145ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' XCH ' or . = ' XCH ')]</value>
+      <webElementGuid>ee09b9ee-6713-4a61-ad66-2a022913ecd4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

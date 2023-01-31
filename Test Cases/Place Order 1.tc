@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Place Order 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb1c5bd5-b8e1-41c9-b3c5-38db34ff5724</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>edd8aab3-29fa-479d-b314-558c875b7055</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.liverpool.com.mx/tienda/checkoutOrderConfirmation'</defaultValue>
+      <description></description>
+      <id>edd8aab3-29fa-479d-b314-558c875b7055</id>
+      <masked>false</masked>
+      <name>PlaceOrder</name>
+   </variable>
+</TestCaseEntity>

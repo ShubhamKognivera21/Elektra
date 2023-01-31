@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Chamarras</name>
+   <tag></tag>
+   <elementGuidId>1ecd6aff-90d3-4d6a-b54e-dcfee9b5e3d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//h5[@class='card-title a-card-description'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.card-title.a-card-description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>21f1845c-4ce2-41c5-b80e-0c689e0b10c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-title a-card-description</value>
+      <webElementGuid>50c1407e-db7d-4395-9a0f-fdcc73e2c9d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chamarras</value>
+      <webElementGuid>64d97e06-072c-40e3-bbf6-5e23010a3486</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/main[1]/div[@class=&quot;container-fluid o-main-container p-0 o-clp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary&quot;]/div[1]/div[@class=&quot;row mt-lg-3 m-row-bootstrap leftMenu-clpMobile&quot;]/div[@class=&quot;col-lg-9 m-column_mainContent clp_headband&quot;]/div[@class=&quot;o-clp-mainContent&quot;]/section[@class=&quot;clp_body&quot;]/div[@class=&quot;o-cards-row o-clp-cards-row mt-lg-4&quot;]/div[@class=&quot;o-clp-cards-row_container&quot;]/div[1]/figure[@class=&quot;m-figureCard__figure card  m-card&quot;]/a[1]/figcaption[@class=&quot;card-body d-flex flex-column align-items-start&quot;]/article[@class=&quot;d-flex&quot;]/h5[@class=&quot;card-title a-card-description&quot;]</value>
+      <webElementGuid>c36bd5f9-bcfe-4e3c-afa8-2494b10dc465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div/div/div[2]/div/div[2]/section/div/div/div/figure/a/figcaption/article/h5</value>
+      <webElementGuid>4acaa580-40dc-4f83-9624-2774ea9543aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver Todo'])[1]/following::h5[1]</value>
+      <webElementGuid>c719e910-6ab4-4375-86c9-dbb29de60bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver todo'])[2]/following::h5[1]</value>
+      <webElementGuid>d3b417e3-8adf-437f-948f-ad23d4e60194</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Abrigos'])[4]/preceding::h5[1]</value>
+      <webElementGuid>8d6ad0e7-c439-4fbe-b63d-7f70ca3eedc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sudaderas'])[4]/preceding::h5[2]</value>
+      <webElementGuid>373df950-0e50-4fc7-bf9f-a2b928971e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>f833d7c8-4edf-4096-8ccc-89a2534a8ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Chamarras' or . = 'Chamarras')]</value>
+      <webElementGuid>2930afa8-a1f5-4e1b-b5da-ef710c345e1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

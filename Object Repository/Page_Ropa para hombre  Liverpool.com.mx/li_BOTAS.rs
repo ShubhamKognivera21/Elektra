@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_BOTAS</name>
+   <tag></tag>
+   <elementGuidId>6fe61103-e721-4c85-9804-a0946b766f61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@class='nav-sub-link-leftMenu']//a)[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a313692f-b911-4710-b4df-f16bb1f375ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BOTAS</value>
+      <webElementGuid>c3246ef6-8bf1-4162-ae24-6e17603b65d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-vh-100&quot;]/div[1]/div[@class=&quot;container-fluid o-main-container p-0 o-blp-secondaryContainer&quot;]/div[@class=&quot;container o-container__secondary&quot;]/div[@class=&quot;row mt-lg-3 m-row-bootstrap&quot;]/main[@class=&quot;col-lg-9 m-column_mainContent&quot;]/div[@class=&quot;o-blp-mainContent order-1 order-lg-2 px-0 px-lg-0 d-none d-lg-block&quot;]/div[@class=&quot;contaier-fluid p-0&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;container-promo01 col-12 col-lg-6&quot;]/a[@class=&quot;m-mainBanner__link&quot;]/div[@class=&quot;banner-promo03-desc category-promo03&quot;]/ul[@class=&quot;btn-catpromo03&quot;]/li[1]</value>
+      <webElementGuid>92811275-cdc5-44ac-a269-3ce7bfb580bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div[4]/main/div[2]/div/div[4]/div/a/div/ul/li</value>
+      <webElementGuid>6f40fee1-627f-460d-a838-0100fd511792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PLAYERAS'])[2]/following::li[1]</value>
+      <webElementGuid>65527e2f-568f-48c6-844e-1c67e9264417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHAMARRAS'])[2]/following::li[2]</value>
+      <webElementGuid>d9e29feb-19d0-4ec0-b51d-ce6e2f54ed80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUFANDAS'])[2]/preceding::li[1]</value>
+      <webElementGuid>c5cd372d-8507-444f-b921-f7e6483ddef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RENTA DE SMOKING'])[2]/preceding::li[2]</value>
+      <webElementGuid>cc2f9a63-df7d-4274-8328-7b87647ce2f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/a/div/ul/li</value>
+      <webElementGuid>90b63be0-f272-45fb-8882-1cb852d4c748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'BOTAS' or . = 'BOTAS')]</value>
+      <webElementGuid>f5b1fdb8-6b99-4bbc-b103-22ba8d147b00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
